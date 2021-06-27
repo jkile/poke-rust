@@ -11,3 +11,8 @@ edition = "2018"
 cli = { path = "../cli" }
 tcp = { path = "../tcp" }
 game-logic = { path = "../game-logic" }
+api = { path = "../api" }
+
+
+tokio = { version = "1.7.1", features = ["full"] }
+reqwest = "0.11.4"

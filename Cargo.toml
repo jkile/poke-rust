@@ -4,5 +4,6 @@ members = [
     "app",
     "cli",
     "tcp",
-    "game-logic"
+    "game-logic",
+    "api"
 ]
